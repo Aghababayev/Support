@@ -1,0 +1,12 @@
+D:\C# projects\ASM SUPPORT\ASM SUPPORT\bin\Debug\ASM SUPPORT.exe.config
+D:\C# projects\ASM SUPPORT\ASM SUPPORT\bin\Debug\ASM SUPPORT.exe
+D:\C# projects\ASM SUPPORT\ASM SUPPORT\bin\Debug\ASM SUPPORT.pdb
+D:\C# projects\ASM SUPPORT\ASM SUPPORT\obj\Debug\ASM SUPPORT.csprojAssemblyReference.cache
+D:\C# projects\ASM SUPPORT\ASM SUPPORT\obj\Debug\ASM_SUPPORT.Form1.resources
+D:\C# projects\ASM SUPPORT\ASM SUPPORT\obj\Debug\ASM_SUPPORT.Properties.Resources.resources
+D:\C# projects\ASM SUPPORT\ASM SUPPORT\obj\Debug\ASM SUPPORT.csproj.GenerateResource.cache
+D:\C# projects\ASM SUPPORT\ASM SUPPORT\obj\Debug\ASM SUPPORT.csproj.CoreCompileInputs.cache
+D:\C# projects\ASM SUPPORT\ASM SUPPORT\obj\Debug\ASM SUPPORT.exe
+D:\C# projects\ASM SUPPORT\ASM SUPPORT\obj\Debug\ASM SUPPORT.pdb
+D:\C# projects\ASM SUPPORT\ASM SUPPORT\obj\Debug\ASM_SUPPORT.Form2.resources
+D:\C# projects\ASM SUPPORT\ASM SUPPORT\obj\Debug\ASM_SUPPORT.Form3.resources
